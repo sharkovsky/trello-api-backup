@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# security
+constants.py
+
+# pickle
+*.pkl
